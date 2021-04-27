@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 33489bd1e248a4f848ed81042a284979
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Examples/04_Advanced/Terrain/Materials/PaintFeatureMask_GroundPlane.mat
+timeCreated: 1480838400
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ec8fa03ec65d410d8d6ae427359d961
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Examples/04_Advanced/Terrain/Materials/PaintControlTexture.shader
+timeCreated: 1480838400
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData:
+  assetBundleName:
+  assetBundleVariant:

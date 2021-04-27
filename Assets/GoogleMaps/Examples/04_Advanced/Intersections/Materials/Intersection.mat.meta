@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cbf0d94c68bb0411ea2855b9a843b504
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Examples/04_Advanced/Intersections/Materials/Intersection.mat
+timeCreated: 1480838400
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData:
+  assetBundleName:
+  assetBundleVariant:
